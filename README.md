@@ -1,5 +1,5 @@
-🚀 Machine Learning Engineer | AI Researcher
-🎓 B.Sc. in Communication and Electronics Engineering (2023)
+AI Engineer
+B.Sc. in Communication and Electronics Engineering (2023)
 
 I specialize in machine learning, deep learning, and AI applications with hands-on experience in computer vision, NLP, and recommendation systems. I have worked on real-time speech emotion detection, text-to-Pandas query translation, and call center AI solutions.
 
